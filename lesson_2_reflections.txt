@@ -1,0 +1,10 @@
+What happens when you initialize a repository?Why do you need to do it?
+
+there is a hidden .git in that file that i initialised. The git file will store
+the metadata of the repository which allow me to keep track of my files.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The value that staging area offers is that it provide a buffer place for programmers
+to commit their changes.
