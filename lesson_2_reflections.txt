@@ -1,10 +1,27 @@
-What happens when you initialize a repository?Why do you need to do it?
 
-there is a hidden .git in that file that i initialised. The git file will store
-the metadata of the repository which allow me to keep track of my files.
+1.What happens when you initialize a repository?Why do you need to do it?
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+  There is a hidden .git in that file that i initialised. The git file will store
+  the metadata of the repository which allow me to keep track of my files.
 
-The value that staging area offers is that it provide a buffer place for programmers
-to commit their changes.
+2.How is the staging area different from the working directory and the repository?
+  What value do you think it offers?
+
+  The value that staging area offers is that it provide a buffer place for programmers
+  to commit their changes.
+
+3.How can you use the staging area to make sure you have one commit per logical change?
+
+  Staging area enable programmers to know which files have been modified and decide
+  which one to commit and which one don’t need.
+
+4. What are some situations when branches would be helpful in keeping your history 
+   organised? How would branches help?
+
+   When there is some experimental features/something different that need to add in the 
+   program but not sure whether the code is working or not. Branches will help and it 
+   enable programmers to switch back to master if something breaks.
+
+5. How do the diagrams help you visualize the branch structure?
+  
+   By drawing diagrams I get to know where am I in the current state.
