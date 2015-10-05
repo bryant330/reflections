@@ -25,3 +25,12 @@
 5. How do the diagrams help you visualize the branch structure?
   
    By drawing diagrams I get to know where am I in the current state.
+
+6. What is the result of merging two branches together? Why do we represent it in the
+   diagram the way we do?
+
+   Merging two branches together will combine both features of the programs. Represent 
+   it in a diagram will make us easy to understand.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+   
