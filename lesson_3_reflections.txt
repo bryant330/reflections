@@ -1,24 +1,32 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
-   	When I working with other people on the same project.
+When I working with other people on the same project.
 
+———————————————————————————————————————————————————————————————————
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-	Pull changes manually makes me know when did I pull my project and I get to know 	more about my progress of the project.
+Pull changes manually makes me know when did I pull my project and I get to know more about my progress of the project.
 
+———————————————————————————————————————————————————————————————————
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-	Forks refers to copying a repository on GitHub. Clones refers to copying a 		repository from GitHub to local machines. Branches refer to creating a new path 	from the master route
+Forks refers to copying a repository on GitHub. Clones refers to copying a repository from GitHub to local machines. Branches refer to creating a new path from the master route
+
+———————————————————————————————————————————————————————————————————
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	
-	This keep the programmer update with the remote branches.
+This keep the programmer update with the remote branches.
+
+———————————————————————————————————————————————————————————————————
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	
-	Collaborate without Git or Github will be harder because the developers will 		easily lose track on the progress of the project.
+Collaborate without Git or Github will be harder because the developers will easily lose track on the progress of the project.
+
+———————————————————————————————————————————————————————————————————
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 	
-	When I’m experimenting something that might break the main codes I will definitely 	do it in a separate branch. If anything happen to the branch, I can go back and 	work on the master. 
+When I’m experimenting something that might break the main codes I will definitely do it in a separate branch. If anything happen to the branch, I can go back and work on the master. 
 
